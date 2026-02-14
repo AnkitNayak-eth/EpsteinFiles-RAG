@@ -3,8 +3,12 @@ A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugg
 
 ![Recording 2026-02-10 230408](https://github.com/user-attachments/assets/e7378680-b113-442e-b112-7745197ade65)
 
-Dataset source:  
+## Dataset source
 👉 https://huggingface.co/datasets/teyler/epstein-files-20k
+
+## Precomputed Embeddings
+👉 https://huggingface.co/datasets/devankit7873/EpsteinFiles-Vector-Embeddings-ChromaDB
+
 
 ---
 
